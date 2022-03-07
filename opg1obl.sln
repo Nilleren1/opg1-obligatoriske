@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opg1obl", "opg1obl.csproj", "{802108E7-D927-4DEB-8168-2501277D832A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opg1oblTests", "..\opg1oblTests\opg1oblTests.csproj", "{ED13FD78-48A5-4835-B863-11A7F1AE9502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802108E7-D927-4DEB-8168-2501277D832A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802108E7-D927-4DEB-8168-2501277D832A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802108E7-D927-4DEB-8168-2501277D832A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802108E7-D927-4DEB-8168-2501277D832A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED13FD78-48A5-4835-B863-11A7F1AE9502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED13FD78-48A5-4835-B863-11A7F1AE9502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED13FD78-48A5-4835-B863-11A7F1AE9502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED13FD78-48A5-4835-B863-11A7F1AE9502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A91231D-A2BB-4063-9F81-700DEF29EB93}
+	EndGlobalSection
+EndGlobal
